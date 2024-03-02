@@ -1,0 +1,27 @@
+sprite_index = spr_introrock;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

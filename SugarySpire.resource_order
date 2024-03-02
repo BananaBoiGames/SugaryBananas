@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Banana","order":1,"path":"folders/Banana.yy",},
+    {"name":"coneman","order":4,"path":"folders/Banana/coneman.yy",},
+    {"name":"Important Objects","order":1,"path":"folders/Objects/Important Objects.yy",},
+    {"name":"Gamesettings","order":1,"path":"folders/Objects/Important Objects/Gamesettings.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"tile_secretnew","order":1,"path":"tilesets/tile_secretnew/tile_secretnew.yy",},
+    {"name":"mu_tutorial","order":1,"path":"sounds/mu_tutorial/mu_tutorial.yy",},
+    {"name":"spr_coneboy_walk","order":1,"path":"sprites/spr_coneboy_walk/spr_coneboy_walk.yy",},
+    {"name":"obj_charswitch","order":3,"path":"objects/obj_charswitch/obj_charswitch.yy",},
+    {"name":"output_tilese1t_Sheet_export","order":1,"path":"sprites/output_tilese1t_Sheet_export/output_tilese1t_Sheet_export.yy",},
+    {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
+    {"name":"spr_charcube","order":5,"path":"sprites/spr_charcube/spr_charcube.yy",},
+    {"name":"tile_hubidfk","order":2,"path":"tilesets/tile_hubidfk/tile_hubidfk.yy",},
+    {"name":"output_tileset_Sheet_export","order":2,"path":"sprites/output_tileset_Sheet_export/output_tileset_Sheet_export.yy",},
+    {"name":"background_layer_sprite_get","order":1,"path":"scripts/background_layer_sprite_get/background_layer_sprite_get.yy",},
+    {"name":"output_tileset","order":1,"path":"sprites/output_tileset/output_tileset.yy",},
+  ],
+}

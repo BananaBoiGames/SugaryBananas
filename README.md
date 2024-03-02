@@ -1,2 +1,1 @@
-# SugaryBananas
-Scary Sugary Spire Bananas
+Spire
