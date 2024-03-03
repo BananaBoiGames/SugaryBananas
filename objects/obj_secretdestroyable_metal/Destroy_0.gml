@@ -13,7 +13,7 @@ if (ds_list_find_index(global.saveroom, id) == -1)
         shake_mag = 20
         shake_mag_acc = (40 / room_speed)
     }
-    scr_soundeffect(sfx_breakmetal)
+    scr_soundeffect(sfx_glassbreak) // placeholder till I will find the original, man I love debbuger 
     ds_list_add(global.saveroom, id)
     var lay_id = layer_get_id("Tiles_1")
     var map_id = layer_tilemap_get_id(lay_id)

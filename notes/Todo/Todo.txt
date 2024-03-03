@@ -1,0 +1,13 @@
+Misc:
+- Find all sfx that don't exist in the game
+- Fix every single sfx
+Minor:
+- add noclip
+- Fix an bug where Player can destroy metal blocks while in machboost3 for some reason
+- Fix Wizard's projectile
+Major:
+- Fix every single door that dosen't work
+- Add Parrallax
+- Random Pause Events
+- Whatever happened in entryway_11 targetdoor (shrug)
+- Fix cotton transo

@@ -1,6 +1,6 @@
 if (sprite_index != spr_confectiboxopen)
 {
-    var _content = instance_create((x + (sprite_width / 2)), (y + (sprite_height / 2)), BoxContent)
+    var _content = instance_create((x + (sprite_width / 2)), (y + (sprite_height / 2)), content)
     if (object_get_parent(_content.object_index) == 66)
     {
         with (instance_create((x + (sprite_width / 2)), (y + (sprite_height / 2)), obj_explosioneffect))
